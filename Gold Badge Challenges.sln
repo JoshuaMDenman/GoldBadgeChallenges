@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Komodo_Restaurant_Menu_1", "Komodo_Restaurant_Menu_1", "{2715214B-1924-46C6-A880-735225D8256A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuTest", "MenuTest\MenuTest.csproj", "{2F82861E-5B8C-4B5F-898D-09D9214B86F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoChallenge1", "KomodoChallenge1\KomodoChallenge1.csproj", "{BCA531AD-D597-4F50-8B54-FA44F41428A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuConsole", "MenuConsole\MenuConsole.csproj", "{5A3EAE7D-AE95-43CD-97EB-B54783A55D30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F82861E-5B8C-4B5F-898D-09D9214B86F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F82861E-5B8C-4B5F-898D-09D9214B86F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F82861E-5B8C-4B5F-898D-09D9214B86F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F82861E-5B8C-4B5F-898D-09D9214B86F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA531AD-D597-4F50-8B54-FA44F41428A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA531AD-D597-4F50-8B54-FA44F41428A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA531AD-D597-4F50-8B54-FA44F41428A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA531AD-D597-4F50-8B54-FA44F41428A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3EAE7D-AE95-43CD-97EB-B54783A55D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3EAE7D-AE95-43CD-97EB-B54783A55D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3EAE7D-AE95-43CD-97EB-B54783A55D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3EAE7D-AE95-43CD-97EB-B54783A55D30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2F82861E-5B8C-4B5F-898D-09D9214B86F2} = {2715214B-1924-46C6-A880-735225D8256A}
+		{BCA531AD-D597-4F50-8B54-FA44F41428A6} = {2715214B-1924-46C6-A880-735225D8256A}
+		{5A3EAE7D-AE95-43CD-97EB-B54783A55D30} = {2715214B-1924-46C6-A880-735225D8256A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EBC6451-BF07-4E67-BC46-CD1F045F244A}
+	EndGlobalSection
+EndGlobal
